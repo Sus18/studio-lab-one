@@ -8,4 +8,6 @@
 * [Color](untitled.md)
 * [Logo](logo.md)
 * [Content](untitled-1.md)
+* [Buttons](buttons.md)
+* [Tables](untitled-2.md)
 
