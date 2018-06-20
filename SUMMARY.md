@@ -3,7 +3,7 @@
 * [Design system](README.md)
 * [Presentation](design-system/README.md)
   * [Kdlab](design-system/documentation.md)
-  * [Prenstation](design-system/untitled.md)
+  * [Presentation](design-system/untitled.md)
 * [Typography](typography.md)
 * [Color](untitled.md)
 * [Logo](logo.md)
