@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Design system](README.md)
-* [Presentation](design-system/README.md)
+* [Introduction](design-system/README.md)
   * [Kdlab](design-system/documentation.md)
   * [Presentation](design-system/untitled.md)
 * [Typography](typography.md)
